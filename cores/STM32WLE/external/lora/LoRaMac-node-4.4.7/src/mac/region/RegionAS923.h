@@ -147,7 +147,7 @@ extern "C"
 /*!
  * Default Max EIRP
  */
-#define AS923_DEFAULT_MAX_EIRP                      16.0f
+#define AS923_DEFAULT_MAX_EIRP                      22.0f
 
 /*!
  * Default antenna gain
