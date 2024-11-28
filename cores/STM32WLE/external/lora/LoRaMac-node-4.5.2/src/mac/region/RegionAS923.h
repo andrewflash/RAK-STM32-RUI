@@ -160,7 +160,7 @@ extern "C"
 /*!
  * Default uplink dwell time configuration
  */
-#define AS923_DEFAULT_UPLINK_DWELL_TIME 1
+#define AS923_DEFAULT_UPLINK_DWELL_TIME 0
 
 /*!
  * Default Max EIRP
@@ -170,7 +170,7 @@ extern "C"
 /*!
  * Default antenna gain
  */
-#define AS923_DEFAULT_ANTENNA_GAIN 2.15f
+#define AS923_DEFAULT_ANTENNA_GAIN 0.0f
 
 /*!
  * Enabled or disabled the duty cycle

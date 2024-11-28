@@ -160,8 +160,8 @@ extern "C"
 /*!
  * Default uplink dwell time configuration
  */
-#define AS923_DEFAULT_UPLINK_DWELL_TIME 1
-#define AS923_DEFAULT_DOWNLINK_DWELL_TIME 1
+#define AS923_DEFAULT_UPLINK_DWELL_TIME 0
+#define AS923_DEFAULT_DOWNLINK_DWELL_TIME 0
 
 /*!
  * Default Max EIRP
